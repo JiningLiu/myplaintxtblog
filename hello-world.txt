@@ -1,0 +1,22 @@
+hello, world!
+index 0
+
+i'm not exactly a fan of reading books. (xkcd's "what if?" is a notable exception)
+
+pretty much every book i've read after the start of my primary education have been assigned readings for a class. while i understand why some may enjoy reading and studying literature, it's just not for me. (do NOT look at my ib english a literature hl grade...)
+
+i do, however, enjoy exploring perspectives and learning from other people.
+
+which is why i like blogs.
+
+i've always wanted to write my own, but couldn't find a platform that i liked, and didn't have the time until now. (just finished ib dp & high school!)
+
+the internet has become a powerful space. i'm sure there's 18 bajillion blog platforms out there with 32 metric tons of fancy features, but i just wanted something that was simple, fast, and free.
+
+and so here we are. like a book with no pictures, this blog site is dead simple, but it does the job.
+
+you control your content under your own github account, for free. oh, and this whole thing is open source, because why wouldn't it be?
+
+plaintxt.blog/new
+
+happy blogging (or reading) :)
