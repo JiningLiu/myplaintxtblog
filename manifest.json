@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "directories": [
+    {
+      "path": "/",
+      "files": [
+        {
+          "path": "/hello-world.txt",
+          "title": "hello, world!",
+          "subtitle": "index 0",
+          "date": "2026-05-17"
+        }
+      ]
+    }
+  ]
+}
