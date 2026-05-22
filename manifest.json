@@ -5,6 +5,12 @@
       "path": "/",
       "files": [
         {
+          "path": "/applying-perpendicularly.txt",
+          "title": "applying perpendicularly",
+          "subtitle": "some notes from my college app experience",
+          "date": "2026-05-22"
+        },
+        {
           "path": "/hello-world.txt",
           "title": "hello, world!",
           "subtitle": "index 0",
