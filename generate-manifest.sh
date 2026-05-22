@@ -6,13 +6,15 @@ find . -type f -name "*.txt" | while read -r file; do
   file="/${file#./}"
   dir=$(dirname "$file")
 
+  path_no_ext="${file%.txt}"
+
   title=$(sed -n '1p' ".$file")
   subtitle=$(sed -n '2p' ".$file")
   date=$(sed -n '3p' ".$file")
 
   jq -n \
     --arg dir "$dir" \
-    --arg path "$file" \
+    --arg path "$path_no_ext" \
     --arg title "$title" \
     --arg subtitle "$subtitle" \
     --arg date "$date" \
