@@ -29,16 +29,17 @@ find . -type f -name "*.txt" | while read -r file; do
     }'
 done > "$tmp"
 
-jq -s '
-{
-  version: 1,
-  directories:
-    group_by(.path)
-    | map({
-        path: .[0].path,
-        articles: map(.file)
-      })
-}
-' "$tmp" > manifest.json
+jq -s \
+  --arg name "$(sed -n '1p' "name")" \
+  '{
+    version: 1,
+    author: $name,
+    directories:
+      group_by(.path)
+      | map({
+          path: .[0].path,
+          articles: map(.file)
+        })
+  }' "$tmp" > manifest.json
 
 rm "$tmp"
