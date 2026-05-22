@@ -34,7 +34,7 @@ jq -s '
     group_by(.path)
     | map({
         path: .[0].path,
-        files: map(.file)
+        articles: map(.file)
       })
 }
 ' "$tmp" > manifest.json

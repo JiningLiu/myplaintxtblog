@@ -3,7 +3,7 @@
   "directories": [
     {
       "path": "/",
-      "files": [
+      "articles": [
         {
           "path": "/applying-perpendicularly.txt",
           "title": "applying perpendicularly",
