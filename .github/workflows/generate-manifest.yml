@@ -29,13 +29,11 @@ jobs:
 
           git fetch origin
 
+          git switch release || git switch -c release
+          git reset --hard main
+
           git add manifest.json
 
           git diff --cached --quiet || git commit -m "Update manifest"
-
-          git push -u origin main
-
-          git switch release || git switch -c release
-          git reset --hard main
 
           git push --force-with-lease origin release
