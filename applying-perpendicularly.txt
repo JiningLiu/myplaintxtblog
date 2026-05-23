@@ -2,17 +2,39 @@ applying perpendicularly
 some notes from my college app experience
 2026-05-22
 
-note: this article was inspired by Chris Peterson's "Applying Sideways." you can read it here: https://mitadmissions.org/blogs/entry/applying_sideways/
+!> this article was inspired by Chris Peterson's "Applying Sideways." you can (and should) read it here: https://mitadmissions.org/blogs/entry/applying_sideways/
 
 today was my high school graduation ceremony. as much as i want to talk about how i spent the past 4 years meeting the most incredible and my favorite people in the entire world (my friends), that sob story will have to be told another day.
 
-i want to take this opportunity, before i forget all about this, to share some of my experiences and learnings from applying to college. while i didn't get into any of the ivys, and i'm certainly no expert on this topic (though i don't think there are any), i think my story might still be worth a cent or two for some of you out there.
+i want to take this opportunity, before i forget all about this, to share some of my experiences and learnings from applying to college. while i didn't get into any of the ivys, and i'm certainly no expert on this topic (though i don't think there are any), my story might still be worth a cent or two for some of you out there.
 
 ================================
 
-note 0: be you (do NOT skip)
+what is applying perpendicularly?
 
-there's nothing less unique you can do than to "take inspiration" from other people's essays or participate in some activity just for your application. you should try to be the person that admissions officers want you to be: yourself.
+i came across Mr. Peterson's article just a day before the MIT regular action deadline, and i wish i had read it earlier. i highly suggest you reading this masterpiece, even if you are not applying to MIT. while the article explored the mantra of applying sideways, i wanted to expand on it a little. 
+
+it can be difficult to see yourself as a unique individual. you might be afraid that what you've participated in, even when done out of passion, is too common or "generic." for me, this was my extracurriculars. i joined one of my school's FTC teams in sophomore year, and was only in two other clubs. i never participated in any math competition, presented at any science fair, done any research with professors, or joined any summer program. the three clubs i was in took up a few hours of my time after every schoolday, and that was about it.
+
+this was particularly worrying when i saw my friends' activity lists spanning 4+ pages long, while i was struggling to fill 2. i had what was probably the shortest résumé in my entire friend group, and very mediocre course scores compared to many people around me. it's almost like there's no reason for a college to pick me over anyone else. 
+
+but, perspective matters. while it may feel like i was still a "generic" applicant despite following my passion and doing much of what Mr. Peterson suggested, somebody else may see it differently.
+
+i often have friends telling me "ok, but you have crazy ECs and projects," even though i feel otherwise. at the same time, many people i know were afraid of their application being "generic," even though they are some of the most interesting and unique people i've met. your activity list alone does not define who you are.
+
+so how do you apply perpendicularly? well, it's like relativity. when you look at yourself from your own perspective, it looks like you are applying straight, and others are applying sideways, as if they are perpendicular to you. but from their perspective, you are also applying sideways. whether you aspire to win the biggest prize there is in international math competitions or not, your path has been different from others, even if you have the same goals and done many of the same things. 
+
+talk to some friends to see yourself from others' perspectives, and reflect on how you think, learn, see the world, have fun, make decisions, hang out, and so much more... consider your impact on the people around you and how others have influenced you, and look back at the ups & downs and bumps & bruises that taught you something new.
+
+if you try to see yourself from a few other lenses, and try to apply sideways, you will be applying perpendicularly. even if you don't make your dream school, know that you've spent your time doing the things you love with the people that you love. and if you do make it, that's just the cherry on top.
+
+below are some additional notes and my personal experiences that might help you out.
+
+================================
+
+note 0: be you, at every step of the way
+
+there's nothing less unique you can do than to "take inspiration" from other people's essays or participate in some last-minute activity just for your application. you should try to be the person that admissions officers want you to be: yourself.
 
 ================================
 
@@ -28,4 +50,39 @@ whatever you decide to start with, keep in mind that this is a long, reflective 
 
 note 2: time is precious (with caveats)
 
-i'm not talking about organizing your time here. admissions officers have to go through a large volume of transcripts, test scores, activity lists, and essays in a very short amount of time, hence, they'd often only spend upwards of 15 minutes (and often less) reading yours. 
+i'm not talking about organizing your time here. admissions officers have to go through a large volume of transcripts, test scores, activity lists, and essays in a very short amount of time. hence, they usually only spend no more than 15 minutes (and often less) reading yours.
+
+one of the most important things to check for in your writing is repetition. yes, it's a great literary device that i'm sure you have "analyzed" in your english class, but it's not a good use of the short word limit that's imposed on you. if you've already made a point, don't make it again and move on.
+
+however, you don't want to overdo this. this is one of the big mistakes that i think i made. i tried to cram so much into some of my essays that they started to contradict note 0. in an effort to maximize conciseness, my writing lost the personality that made them expressive and sound like me.
+
+================================
+
+note 3: LLMs don't know as much as you think
+
+i had ChatGPT and Gemini read my initial essay drafts for my MIT application, and that's by far the thing i regret doing the most. while these LLMs are trained with a lot of information, including tons on college admissions, they miss out on note 0 and the last part of note 2, even if you use their personalization and customization features to add context to the chatbot. nobody knows you more than yourself, and there's no reason to listen to what a neural network running on some water- and power-hungry datacenter "thinks" is most likely to get you into a school, because there is no such thing as a "most likely" application.
+
+this doesn't mean you shouldn't use AI. in recent years, this term has gotten some bad reputation for its association with poorly trained and moderated chatbots, but that doesn't mean all AI is bad. you might want to run your essay through a spelling/grammar checker before you hit submit, but don't ask for any more suggestions. 
+
+the short word limits are there for a reason, because colleges want to see how you can differentiate and express yourself effectively. MIT's essay questions are, in my opinion, particularly "generic," which makes them even more difficult as it seems like half the world would share the same answers (you can read them here: https://mitadmissions.org/apply/firstyear/essays-activities-academics/). back to note 0, the key word is "you," so don't use an LLM to do "improve" your essay, because it won't.
+
+================================
+
+note 4: impact & community
+
+nobody likes a selfish, ignorant person. so don't make yourself look like one. you may not realize it, but you have made impacts, both big and small, on your community. how you have influenced other people matters a lot more than you may think, and colleges want to learn more about you through your impact, regardless of their scale.
+
+likewise, only focusing on the impact you have made would make for some especially self-centered essays. your writing should also show how you've grown. you've spent over a decade learning from a diverse group of people, whether it's friends, family, teachers, mentors, or strangers, they have supplied you with knowledge, wisdom, and so much more. find the moments that hold the most value to you, and incorporate them into your writing.
+
+as much as you may want to explain how you've made some impact on the global scale, that may not be the story that fits you the most. if you know me personally, you probably know that i made an open-source FTC scoring app that has been used by hundreds of teams in 40+ countries across all 6 habitable continents (shout out to my pres team!!!), scoring over 900k+ points across two seasons. massive impact? yes. displays skill? also yes. but my personal attachment to this project is a lot less concrete than other interactions i've had with people.
+
+i immigrated to the U.S. from China 7 years ago, neither of my parents have a college degree, and they had no engineering or computer science background. almost everything i know about coding and CAD are completely self-taught from hundreds of YouTube videos, Median articles, and random websites. it took way too long for me to figure out all these things by myself, and i don't want others wasting their time figuring out the same obscure problems i've faced, which is why i love teaching others anything i know. in some ways, i think this has a larger impact than the hundreds of teams reached by my scorer app. being a mentor in someone else's journey feels significantly more personal and meaningful to me than lines of code calculating game elements and fouls, even if the numbers reflecting this are a lot smaller.
+
+even though i learned a lot by myself, i wouldn't be able to do the things i do today without the countless people who have guided me. my freshman year was a scary one. my english was still maturing at the time and i didn't know that many people. i joined our school's engineering club as one of the only freshmen that year, and i was quite nervous being surrounded by a cohort of juniors and seniors whom i've never met. long story short, the students i had met in that club were some of my most valuable friends during my first year in high school. they didn't just show me how to use specialized software, power tools, 3D print, and laser cut, they let me do it despite having no experience. these people, along with my teachers, were beyond supportive of my learning and didn't look down on the barriers i faced as a shy, poorly spoken kid, and i will be forever grateful for them.
+
+it's moments like these that make you who you are. the impact you've had on others and vice versa is what builds communities and makes you grow. don't leave these experiences out of your application, they are fundamental to note 0.
+
+================================
+
+note 5: experiences beyond success
+
