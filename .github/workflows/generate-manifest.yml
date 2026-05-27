@@ -1,4 +1,4 @@
-name: Generate Manifest
+name: Generate blog articles manifest
 
 on:
   push:
