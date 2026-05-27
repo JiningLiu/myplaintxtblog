@@ -1,8 +1,10 @@
 name: Publish blog articles to Pages
 
 on:
-  push:
-    branches: ["release"]
+  workflow_run:
+    workflows: ["Generate blog articles manifest"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
