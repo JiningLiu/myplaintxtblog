@@ -1,0 +1,91 @@
+at&t is the bane of my existence
+genuinely impressively unintelligibly crap
+2026-08-06
+
+okay, where do i even begin with this
+
+imagine a telecom company so keen on delivering the worst customer experience in the world as if happy customers are the covid-19 virus, so fond of neglecting consumer rights like a quarter of americans do with human-induced climate change, and so astronomically braindead as if its ran by the folks at collegeboard... that's at&t.
+
+
+
+i should probably pull back the curtains a little.
+
+the first carrier we got after immigrating to america was at&t. little 11 year-old me could not care less about the telecommunications market back then, so when it came around to getting wifi for our apartment, at&t gained us as an isp customer too.
+
+and that was the first mistake. i'm not sure if it's just old infrastructure at the apartment we lived at, but we speeds consistently below the american average. that's all fine and dandy given i didn't have my own vpn and homelab back then, so bandwidth wasn't a big issue.
+
+the problem, however, was consistency.
+
+i'm not joking when i say FIFTY percent of the time i could've downloaded an 4 gb file faster if i had FLOWN TO THE SERVER WHERE THE FILE WAS, TRANSFERRED IT TO A USB DRIVE, AND FLOWN BACK before the download would complete over our "fast & reliable" wifi. we're talking about speeds less than 1 mbps here, while the advertised speed was 25.
+
+there wasn't really anything we could do about it, though. there wasn't exactly a choice when it came to our isp, so i just had to live with it. and since i wasn't much of a heavy cellular user back then, i didn't complain about it.
+
+until i realized the cellular service was also completely dog water. i won't bore you with the details with this one, but it was basically your average crappy celluar experience. long story short, after getting a t-mobile test drive device to see how their network compared, we made the switch.
+
+i don't know if it was the area we lived in or the fact that we always got the cheapest plan, but the t-mobile network also proved to be mediocre at best. either way, it was all about to change again... and this is where the crap really hits the fan.
+
+a few years of apartment life later, we bought a house, which meant we had to get internet, again. we were provided the exquisite choices of charter spectrum and at&t, so guess which option my dumb ahh decided was a good idea to get.
+
+yeah, at&t. 
+
+i know what you are thinking: "so ur tiny brain with its negative two braincells had the brilliant idea to get screwed by the same isp you had been despising for years as if they were an impact driver concussing your skull with a hundred socket heads."
+
+wow, how nice of you! i would've said flat heads since i have no self-respect but thank you for the compliment.
+
+though, in my defense, the sales guy who came to our house just outright lied to us.
+
+while checking our house for pre-installation procedures, the at&t guy pitched to us on getting at&t cell service again. i was initially disinterested, but thought i'd be nice and hear the guy out. he offered us great phone deals with zero trade-in and a $200 gift card for each line we buy, and a $5/mo discount on our internet bill. when i asked him "so is there a contract we have to sign for this deal?" he replied "no."
+
+he then went on about some three-year term blah blah blah who cares, upon hearing "three-year," i thought: isn't that a contract? so i asked the guy again to confirm, and he once again denied. this had me havily considering the deal, and we told him we'll have to think about it.
+
+given the at&t cell service would've been cheaper than our t-mobile plan, we decided to give it a try. my mom was also long overdue on getting a new phone, so switching to at&t it was.
+
+what followed was three years of disappointment, rage, and realizing that we got scammed.
+
+there was absolutely a contract on the cell service. it was as if canceling early was a violation of the geneva convention and we'd be prosecuted by the icc for war crimes. and you'd think i'd have learned from my previous experience with at&t cell service, but no sir/ma'am, you have SEVERELY over-estimated my ability to be competent.
+
+the service was completely UNUSABLE within a half-mile radius of our house, and calls sounded like they are some how pulse-width modulating. you are telling me, that the richest country in the entire world, the united states of america, can't even deliver usable CALL SERVICE to its citizens with its wireless oligopoly?
+
+the SECOND that contract ended, we hopped into the car and broke the land speed record going to the nearest at&t store, IMMEDIATELY canceled our service, and went to t-mobile right after to get that at&t sim card burned. (if you can't tell by this point, verizon was absolutely not in the budget.)
+
+a few months go by with no complaining, until the most frustrating 3 months of my life came.
+
+our "gateway," at&t's proprietary and MANDATORY modem + router hardware, started randomly factory-resetting itself every other week. this was particularly frustrating for me as i had been hosting my own vpn to access devices on my lan while out and about. this meant that i had a few port-forwarding services setup along with a few dhcp reservations to keep the ip addresses of my raspberry pis static. these things take longer than you'd think to setup, since the idiots at whichever company designed this nonsense thought it'd be funny to put what was the equivalent of an intel 3101 in there to set a new world record for the SLOWEST time to access the router configuration page. it takes AGES every time i need to go in and fix everything, and remember, i had to do this EVERY OTHER WEEK.
+
+this was at the end of my senior year in high school, so i had ZERO time to deal with this, and even less time trying to reach at&t on the phone. my parents have no idea how any of this works, so i had to wait until after i came back from my trip to china to contact the fine pieces of homo sapiens residing in at&t's prison of a call center.
+
+upon calling the number on their website listed for home internet customer service, i was greeted by something along the lines of "all of our representatives are..." yeah yeah of course. i had to call uscis more times than i'd like during my senior year to get my legal status all figured out, so i had more than enough experience to deal with being put on hold. to my surprise, at&t had a call back service so i didn't have to painfully listen to their hold music, and no i do not trust apple's hold assist feature.
+
+upon receiving the call back, i told the representative what the problem was, and requested a replacement gateway, as i was certain that there had to have been a hardware fault. to my surprise, the request was quickly processed within 10 minutes, and i was put on transfer to another representative. i didn't know what for, but i was more than happy when i was told a new gateway would arrive at my doorstep in just two days.
+
+i should've picked up on what had gone wrong when the person they transferred me to seemed confused about why i was on the call. he started asking me if i had already received the new gateway, which i obviously haven't since teleportation hasn't been invented yet to the best of my knowledge. i don't remember the rest of the conversation, but that should've been my first clue that the first representative had actually done bat crap nothing.
+
+a week later, nothing showed up. i called again, and requested another call back.
+
+they never called back.
+
+i was busy at the time, so it wasnt a few days later on the following monday i called again. this time, they did call back, and the representatively swiftly said they could transfer me to another team to complete the request. i was put on hold, and 30 seconds later, the line went dead.
+
+i know it wasn't the signal that dropped. for one, we no longer had at&t as our cell service. and second, it didn't say "call failed," they straight up hung up on me.
+
+that was the last straw. i was cursing so loudly for so long that im surprised none of our neighbors called for a noise complaint. i immediately went on amazon to buy a modem and a router to try and fix this myself, but before i put in the order, i thought i should check to make sure what i had picked would work.
+
+turns out, nothing would've worked. like i said earlier, the at&t gateway was a MANDATORY device. you can't get around it.
+
+i was left in disbelief. freedom really isn't free, huh.
+
+all of a sudden, the google fiber ads being sent to our mailbox every fricking day seemed very compelling. that very night, i setup an appointment for our new internet service.
+
+its been 3 days since we got gfiber installed in our house. not only are the speeds over three times faster than our old at&t plan, it was also cheaper than the equivalent at&t option. oh, and i can use my own equipment if i desire.
+
+im betting on that google isn't has braindead with its hardware, so hopefully nothing goes to crap again. i called at&t for the final time yesterday to cancel our internet service with them, and when they had the AUDACITY to sell me their cellular plans again, i decided to do a little trolling.
+
+the rep on the phone asked which carrier we had and how much we were paying. i told him we have 3 lines with t-mobile with a device payment plan for basically free, none of which was true. the guy didn't know how to respond.
+
+
+
+knowing that i never have to deal with at&t again has partially cured my depression. the mere existence of this company is beyond my comprehension. if i could drop a nuclear bomb on the people in charge of this dumpster fire, i would. every single picogram of enriched uranium would be put to their best use on the imbeciles of this massive scam operation.
+
+that's about it. i tried deleting my at&t mail account that i had signed up by accident but legitimately could not find out how. i'm pretty sure they just don't accept account deletion and data removal requests. regardless, i was in no mood to call again, so if anyone knows how to get their data out of at&t's servers, let me know.
+
+may you the reader never have to deal with the lack of brains at at&t.

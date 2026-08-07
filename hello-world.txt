@@ -16,7 +16,7 @@ the internet has become a powerful space. i'm sure there's 18 bajillion blog pla
 
 and so here we are. like a book with no pictures, this blog site is dead simple, but it does the job.
 
-you control your content under your own github account, for free. oh, and this whole thing is open source, because why wouldn't it be?
+you control your content under your own GitHub account, for free. oh, and this whole thing is open source (https://github.com/JiningLiu/plaintxt.blog), because why wouldn't it be?
 
 https://new.plaintxt.blog
 
