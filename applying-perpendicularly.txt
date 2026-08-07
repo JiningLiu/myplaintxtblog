@@ -4,13 +4,13 @@ some notes from my college app experience
 
 this article was inspired by Chris Peterson's "Applying Sideways." you can (and should) read it here: https://mitadmissions.org/blogs/entry/applying_sideways/
 
-================================
+
 
 today was my high school graduation ceremony. as much as i want to talk about how i spent the past 4 years meeting the most incredible and my favorite people in the entire world (my friends), that sob story will have to be told another day.
 
 i want to take this opportunity, before i forget all about this, to share some of my experiences and learnings from applying to college. while i didn't get into any of the ivys, and i'm certainly no expert on this topic (though i don't think there are any), my story might still be worth a cent or two for some of you out there.
 
-================================
+
 
 what is applying perpendicularly?
 
@@ -32,13 +32,13 @@ if you try to see yourself from a few other lenses, and try to apply sideways, y
 
 below are some additional notes and my personal experiences that might help you out.
 
-================================
+
 
 note 0: be you, at every step of the way
 
 there's nothing less unique you can do than to "take inspiration" from other people's essays or participate in some last-minute activity just for your application. you should try to be the person that admissions officers want you to be: yourself.
 
-================================
+
 
 note 1: ...on getting started
 
@@ -48,7 +48,7 @@ i started by filling out all the boring stuff in the Common App... it helped me 
 
 whatever you decide to start with, keep in mind that this is a long, reflective process. although i often tell people that i only spent 2 hours on my UT Austin application, i took a lot more time thinking about it during the months leading up to the deadline. while doing all the thinking and writing in a few hours is definitely not in your best interest, staring at your screen all day trying to come up with an essay idea probably doesn't help either. go for a walk, talk to some friends, and spend some time doing what you love. it might pay off.
 
-================================
+
 
 note 2: time is precious (with caveats)
 
@@ -58,7 +58,7 @@ one of the most important things to check for in your writing is repetition. yes
 
 however, you don't want to overdo this. this is one of the big mistakes that i think i made. i tried to cram so much into some of my essays that they started to contradict note 0. in an effort to maximize conciseness, my writing lost the personality that made them expressive and sound like me.
 
-================================
+
 
 note 3: LLMs don't know as much as you think
 
@@ -66,9 +66,9 @@ i had ChatGPT and Gemini read my initial essay drafts for my MIT application, an
 
 this doesn't mean you shouldn't use AI. in recent years, this term has gotten some bad reputation for its association with poorly trained and moderated chatbots, but that doesn't mean all AI is bad. you might want to run your essay through a spelling/grammar checker before you hit submit, but don't ask for any more suggestions. 
 
-the short word limits are there for a reason, because colleges want to see how you can differentiate and express yourself effectively. MIT's essay questions are, in my opinion, particularly "generic," which makes them even more difficult as it seems like half the world would share the same answers (you can read them here: https://mitadmissions.org/apply/firstyear/essays-activities-academics/). back to note 0, the key word is "you," so don't use an LLM to do "improve" your essay, because it won't.
+the short word limits are there for a reason, because colleges want to see how you can differentiate and express yourself effectively. MIT's essay questions are, in my opinion, particularly "generic," which makes them even more difficult as it seems like half the world would share the same answers (you can read them here: https://mitadmissions.org/apply/firstyear/essays-activities-academics). back to note 0, the key word is "you," so don't use an LLM to do "improve" your essay, because it won't.
 
-================================
+
 
 note 4: impact & community
 
@@ -84,7 +84,7 @@ even though i learned a lot by myself, i wouldn't be able to do the things i do 
 
 it's moments like these that make you who you are. the impact you've had on others and vice versa is what builds communities and makes you grow. don't leave these experiences out of your application, they are fundamental to note 0.
 
-================================
+
 
 note 5: experiences beyond success
 
@@ -94,7 +94,7 @@ why am i talking about all this? well, as much as admissions officers want to se
 
 i didn't write about a lot of these experiences in my essays, and though i'm not exactly sure about their impact on admissions, i still wish i would've talked more about them. every single one of these experiences is a learning opportunity that you can't get in school or anywhere else, and they expose your personality to admissions officers by telling a story that reflects your way of learning and existing in the world.
 
-================================
+
 
 there's much more to a good college application than just these few notes, but again, i'm no expert in this and i didn't get into MIT or any Ivys. 
 
@@ -103,5 +103,7 @@ at the end, what school you get admitted to doesn't change who you are. you can 
 i applied to MIT knowing that i would be below average in the pool of applicants in terms of academics and extracurriculars, but i didn't want to miss out on the chance to apply to the best school in the world. don't give up on applying to your dream school because you're afraid of getting rejected, because you will regret not trying way more.
 
 as a final note, you may spend a few months on your application, but that's only a few out of the one thousand months you'll spend on this Earth. there will be more important things in life than some essays you wrote as a teenager, so don't stress too much over it. remember note 0, and don't make dumb mistakes, and i'm sure everything will turn out just fine.
+
+
 
 good luck!
