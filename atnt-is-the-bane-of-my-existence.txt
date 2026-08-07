@@ -22,7 +22,9 @@ there wasn't really anything we could do about it, though. there wasn't exactly 
 
 until i realized the cellular service was also completely dog water. i won't bore you with the details with this one, but it was basically your average crappy celluar experience. long story short, after getting a t-mobile test drive device to see how their network compared, we made the switch.
 
-i don't know if it was the area we lived in or the fact that we always got the cheapest plan, but the t-mobile network also proved to be mediocre at best. either way, it was all about to change again... and this is where the crap really hits the fan.
+i don't know if it was the area we lived in or the fact that we always got the cheapest plan, but the t-mobile network also proved to be mediocre at best. either way, it was all about to change again... and this is where the crap really hit the fan.
+
+
 
 a few years of apartment life later, we bought a house, which meant we had to get internet, again. we were provided the exquisite choices of charter spectrum and at&t, so guess which option my dumb ahh decided was a good idea to get.
 
@@ -36,7 +38,7 @@ though, in my defense, the sales guy who came to our house just outright lied to
 
 while checking our house for pre-installation procedures, the at&t guy pitched to us on getting at&t cell service again. i was initially disinterested, but thought i'd be nice and hear the guy out. he offered us great phone deals with zero trade-in and a $200 gift card for each line we buy, and a $5/mo discount on our internet bill. when i asked him "so is there a contract we have to sign for this deal?" he replied "no."
 
-he then went on about some three-year term blah blah blah who cares, upon hearing "three-year," i thought: isn't that a contract? so i asked the guy again to confirm, and he once again denied. this had me havily considering the deal, and we told him we'll have to think about it.
+he then went on about some three-year term blah blah blah who cares, upon hearing "three-year," i thought: isn't that a contract? so i asked the guy again to confirm, and he once again denied. this had me heavily considering the deal, and we told him we'll have to think about it.
 
 given the at&t cell service would've been cheaper than our t-mobile plan, we decided to give it a try. my mom was also long overdue on getting a new phone, so switching to at&t it was.
 
@@ -64,21 +66,21 @@ a week later, nothing showed up. i called again, and requested another call back
 
 they never called back.
 
-i was busy at the time, so it wasnt a few days later on the following monday i called again. this time, they did call back, and the representatively swiftly said they could transfer me to another team to complete the request. i was put on hold, and 30 seconds later, the line went dead.
+i was busy at the time, so it wasn't until a few days later on the following monday i called again. this time, they did call back, and the representatively swiftly said they could transfer me to another team to complete the request. i was put on hold, and 30 seconds later, the line went dead.
 
 i know it wasn't the signal that dropped. for one, we no longer had at&t as our cell service. and second, it didn't say "call failed," they straight up hung up on me.
 
-that was the last straw. i was cursing so loudly for so long that im surprised none of our neighbors called for a noise complaint. i immediately went on amazon to buy a modem and a router to try and fix this myself, but before i put in the order, i thought i should check to make sure what i had picked would work.
+that was the last draw. i was cursing so loudly for so long that im surprised none of our neighbors called for a noise complaint. i immediately went on amazon to buy a modem and a router to try and fix this myself, but before i put in the order, i thought i should check to make sure what i had picked would work.
 
 turns out, nothing would've worked. like i said earlier, the at&t gateway was a MANDATORY device. you can't get around it.
 
 i was left in disbelief. freedom really isn't free, huh.
 
-all of a sudden, the google fiber ads being sent to our mailbox every fricking day seemed very compelling. that very night, i setup an appointment for our new internet service.
+all of a sudden, the google fiber ads being sent to our mailbox every fricking day seemed pretty compelling. that very night, i setup an appointment for our new internet service.
 
 its been 3 days since we got gfiber installed in our house. not only are the speeds over three times faster than our old at&t plan, it was also cheaper than the equivalent at&t option. oh, and i can use my own equipment if i desire.
 
-im betting on that google isn't has braindead with its hardware, so hopefully nothing goes to crap again. i called at&t for the final time yesterday to cancel our internet service with them, and when they had the AUDACITY to sell me their cellular plans again, i decided to do a little trolling.
+im betting on that google isn't has braindead with its hardware, so hopefully nothing goes to crap again. i called at&t for the final time yesterday to cancel our internet "service," and when they had the AUDACITY to sell me their cellular plans again, i decided to do a little trolling.
 
 the rep on the phone asked which carrier we had and how much we were paying. i told him we have 3 lines with t-mobile with a device payment plan for basically free, none of which was true. the guy didn't know how to respond.
 
@@ -88,4 +90,4 @@ knowing that i never have to deal with at&t again has partially cured my depress
 
 that's about it. i tried deleting my at&t mail account that i had signed up by accident but legitimately could not find out how. i'm pretty sure they just don't accept account deletion and data removal requests. regardless, i was in no mood to call again, so if anyone knows how to get their data out of at&t's servers, let me know.
 
-may you the reader never have to deal with the lack of brains at at&t.
+may you the reader never have to deal with the lack of functioning brains at at&t.
