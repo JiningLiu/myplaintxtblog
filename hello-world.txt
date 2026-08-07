@@ -18,6 +18,6 @@ and so here we are. like a book with no pictures, this blog site is dead simple,
 
 you control your content under your own github account, for free. oh, and this whole thing is open source, because why wouldn't it be?
 
-plaintxt.blog/new
+https://new.plaintxt.blog
 
 happy blogging (or reading) :)
