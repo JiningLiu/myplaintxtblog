@@ -1,0 +1,34 @@
+my local best buy restored my faith in humanity
+i'm no longer unemployed
+2026-08-10
+
+in an effort to no longer be a drag on society whose only purpose is to get cooked in school, i decided to get a job.
+
+that way i can get cooked at work too.
+
+
+
+some context first (though it may sound like a massive tangent but stick with me). i have a decent (i think) background in full-stack web and mobile app development. in middle school, i made a chat app with plain html/css/js and firebase to bypass the district ban on students emailing each other. i shared the replit link with some friends and proceeded to get sick a few days later. after getting up from bed and checking the firebase dashboard to make sure i haven't reached the free tier limits yet, i was met by nearly 19,000 database document writes (aka messages sent) and over 40,000 document reads. the limits were 20k and 50k. given that i had literally zero cents to my name, i quickly added a new page to the site that just said: "you guys are using this too much so i have to disable the website because it'll start costing me money." (yeah, i didn't know how the billing worked back then)
+
+not too long after, replit got banned. though i blame my friend who was making games on the site.
+
+i eventually got bored of the web and too frustrated at responsive design (i.e. making sites that work on all sorts of screen sizes), so i entered the world of app dev. it definitely took a few years before i got good, but during my final years in ftc robotics, i made two apps to help teams score and keep track of practice sessions and matches. the apps were used in nearly 40 countries across all 6 habitable continents (shout out to my outreach & pres teams <3) and scored over 800,000 points. all of this (and some insane luck) got me into apple's worldwide developers conference (wwdc) in 2025, which was easily the best trip of my (short) life.
+
+my time in ftc was also heavily focused on hardware. i got okay at cad and learned how to 3d print, laser cut, and use a cnc router. the team i was a part of, 20240 slingshot, made it to the world championship for the first time during my final season. and for the longest time, i wanted to make a thrust vector controlled (tvc) model rocket like joe barnard from bps.space. though i have made several successful tvc mounts and tested them on the ground, i never got to writing any of the actual software before school and clubs got busy, which is a shame, because i was already done with all the hardware.
+
+so when it came to getting a job, one might've expected me to apply for internships in software development or robotics, but to be honest, i have zero experience with stuff like that, and have no idea how to get those opportunities. i'm entirely self-taught and neither of my parents have college degrees, let alone any background or connections in these fields. i'm also a first generation immigrant, my parents grew up working on the farm and received inadequate educations, and my dad still can't speak english to this day.
+
+rather than working somewhere fancy, i wanted to work in one of the two sectors i found to be fundamentally most important in american society: retail shopping and food. all things considered, i'm super lucky to be here today and have a computer that allowed me to learn all the skills i wanted. and though we are certainly well within the middle class, half of the country is in a financial situation significantly less ideal than mine. i knew going into this that retail wouldn't be an easy job, both physically and mentally. but, working in these sectors would let me experience a new perspective completely unfamiliar to me, knowing that money for the vast majority of americans don't come by sitting in front of a computer. 
+
+given my knowledge in consumer technologies, i applied to a retail sales position at my local best buy. and to my surprise, both of my interviews were scheduled within a week of my application, and i got an offer on the spot at the end of the second one.
+
+i was actually not very nervous walking into the store for the first time in five years. after completing all the paperwork with a leader in the store, i took a quick tour inside and came back two days later for my first work day. the online training modules took me over 2 days and were admittedly very boring, but i was looking forward to helping customers on the sales floor after all of this was over. i'll save the complaints for another day, but after my fourth day being comprised of nearly five horus of meetings and barely any time for getting actual experience on the floor, i became a little frustrated at corporate and its inefficiencies. 
+
+i spent the past one and a half shifts selling by myself on the floor, after a few days of shadowing some of my new incredible coworkers. without their help, i would've been a heck of a lot more clueless and probably a disaster for the store, but their compassion and willingness to let me follow them all day and answer my questions restored my faith in humanity.
+
+with all the negative news out there regardless of which side of the political aisle you are on, the basic human nature of giving each other a hand and coexisting to best benefit humankind can seem lost. i read the news way more often than most people my age, so i'm often frustrated by being well informed on all the things going on in the world, while many of my friends have no clue something has happened. the negativity has injected some level of hopelessness into my daily life, and has certainly impacted my mood after getting home from school every day. getting this job at best buy is one of the best decisions of my life, even though it has only been two weeks since i became a blue shirt. nearly every interaction i've had with customers has been uplifiting for me, that feeling of helping someone find the right products for their needs doesn't just put a smile on their face, but on mine too. whether it's sharing a story with a customer, a laugh with a coworker, or anything in between, my local best buy has, to some extent (sorry ib kids), restored my faith in humanity.
+
+
+
+
+except a racist a** couple lowkey destroyed my mood for a few minutes but the next few customers were super nice so that made up for it.
