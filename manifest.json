@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "author": "Jining Liu",
+  "directories": [
+    {
+      "path": "/",
+      "articles": [
+        {
+          "path": "/my-local-best-buy-restored-my-faith-in-humanity",
+          "title": "my local best buy restored my faith in humanity",
+          "subtitle": "i'm no longer unemployed",
+          "date": "2026-08-10"
+        },
+        {
+          "path": "/atnt-is-the-bane-of-my-existence",
+          "title": "at&t is the bane of my existence",
+          "subtitle": "genuinely impressively unintelligibly crap",
+          "date": "2026-08-06"
+        },
+        {
+          "path": "/applying-perpendicularly",
+          "title": "applying perpendicularly",
+          "subtitle": "some notes from my college app experience",
+          "date": "2026-05-22"
+        },
+        {
+          "path": "/hello-world",
+          "title": "hello, world!",
+          "subtitle": "index 0",
+          "date": "2026-05-17"
+        }
+      ]
+    }
+  ]
+}
